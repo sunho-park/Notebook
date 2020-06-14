@@ -315,9 +315,9 @@ arr = arr.T
 print(arr)
 
 # 변수 arr의 2, 3, 4열만 추출한 행렬(3 × 3)을 변수 arr1에 대입하세요
-arr1 = arr[:, 1:4]
-print(arr1)
-
+# arr1 = arr1[:, 1:4]
+# print(arr1)
+'''
 # 변수 arr1의 행을 정렬하세요
 arr1.sort(0)
 print(arr1)
@@ -370,4 +370,4 @@ print()
 image3 = np.abs(image3)
 
 # image3을 출력합니다
-print(image3)
+print(image3)'''
